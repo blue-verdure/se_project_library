@@ -383,7 +383,11 @@
 }
 
 .about__paragraph {
-  margin: 0 0 32px;
+  margin: 0px 0px 32px;
+}
+
+.about__paragraph:last-child {
+  margin: 0px 0px 0px;
 }
 
 .about__circle {
