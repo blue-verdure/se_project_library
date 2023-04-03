@@ -435,8 +435,13 @@
   margin-bottom: 16px;
 }
 
+.footer__list-item:last-child {
+  margin-bottom: 0px;
+}
+
 .footer__column-heading {
   margin-bottom: 20px;
+  margin-top: 0px;
 }
 
 .footer__column-link {
@@ -460,4 +465,7 @@
 
 .footer__copyright {
   margin-top: 108px;
+  margin-bottom: 0px;
 }
+
+/*I'm sorry! I made the changes to the wrong file!*/
